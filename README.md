@@ -36,7 +36,7 @@ This project is a simple **Banking Management System** developed using the **C p
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Language:** C
 - **Compiler:** GCC 
 - **Editor:** VS Code
